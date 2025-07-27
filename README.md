@@ -1,2 +1,2 @@
-# trifri
+# TRIFRIENDS
 oo
